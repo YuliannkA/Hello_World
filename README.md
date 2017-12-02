@@ -1,2 +1,4 @@
 # Hello_World
-first repositary
+
+Hello Everyone,
+I am on my journey to become a data scientist!
